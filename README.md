@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ovita-angera
-- 👀 I’m interested in Data Science in R and Python, backend development in Golang.
-- 🌱 I’m currently learning Data Science in R, Python and Introduction to Golang.
-- 💞️ I’m looking to collaborate on Data Visualisation, Regression Modelling and Statistical analyses.
+- 👀 I’m interested in solving problems in Finance, Health Insurance and Software development.
+- 🌱 I’m currently learning Software Development using java.
+- 💞️ I’m looking to collaborate on backend using Springboot, frontend using Angular.
 - 📫 How to reach me Tel: +254768951264 email: ovita.brian@gmail.com
 
 <!---
