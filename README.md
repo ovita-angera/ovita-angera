@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ovita Ang'era
 - 👀 I’m interested in proactive problem solving in financial technology, health insurance and data analytics.
 - 🌱 I’m currently learning front end development using HTML, CSS, React JS, MUI Library and Tailwind CSS
-- 💞️ I’m looking to collaborate on backend using python: django-framework, java: springboot, frontend using js: react and data analysis in R and Python.
+- 💞️ I’m looking to collaborate on frontend using js: react, data analysis using R, SQL or Python and backend using python: django, java: springboot.
 - 📫 How to reach me Tel: +254768951264 email: ovita.brian@gmail.com
 
 <!---
