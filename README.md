@@ -24,9 +24,9 @@
 * LinkedIn: www.linkedin.com/in/ang-era-ovita
 
 **Tools & Technologies:**
-    * R (Tidyverse, Janitor, Mosaic, Caret, Ggplot2)
-    * Python (Pandas, NumPy, Seaborn, Sklearn, Plotly.)
-    * SQL
+* R (Tidyverse, Janitor, Mosaic, Caret, Ggplot2)
+* Python (Pandas, NumPy, Seaborn, Sklearn, Plotly.)
+* SQL
 
 **Stats:**
 
