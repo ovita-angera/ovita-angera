@@ -2,33 +2,33 @@
 
 **Data Analyst | Problem Solver**
 
-** I’m currently working on:**
+**I’m currently working on:**
 
 * Mastering data methods in actuarial studies and insurance.
 * Building my skillset in R, Python, and SQL for data cleaning, modeling, and presentation.
 
-** Strengths:**
+**Strengths:**
 
 * Mathematics
 * Data Analysis
 
-**  Looking to collaborate on:**
+**Looking to collaborate on:**
 
 * Projects involving R, Python, and SQL development 
 * Data cleaning, modeling, and presentation tasks
 * Machine Learning, Deep Learning and Business Intelligence
 
-** Get in touch:**
+**Get in touch:**
 
 * Email: ovita.brian@gmail.com
 * LinkedIn: www.linkedin.com/in/ang-era-ovita
 
-** Tools & Technologies:**
+**Tools & Technologies:**
     * R (Tidyverse, Janitor, Mosaic, Caret, Ggplot2)
     * Python (Pandas, NumPy, Seaborn, Sklearn, Plotly.)
     * SQL
 
-** Stats:**
+**Stats:**
 
   * In the making ...
 
@@ -40,14 +40,14 @@
 * CLI Ticket booking application using Golang
 * MMA analytics dashboard using R, R shiny and R shinydashboard
 
-** Learning Resources:**
+**Learning Resources:**
 
 * Youtube
 * LinkedIn Learning
 * Udemy
 * Coursera
 
-** Questions?**
+**Questions?**
 
 Feel free to reach out!
 
